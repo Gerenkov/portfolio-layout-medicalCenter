@@ -779,7 +779,7 @@ a {
   top: 3px;
   width: 22px;
   height: 22px;
-  background-image: url("/img/svg/check.svg");
+  background-image: url("img/svg/check.svg");
   background-position: center;
   background-size: 16px 16px;
   background-repeat: no-repeat;
@@ -1121,7 +1121,7 @@ a {
   margin-right: 10px;
   width: 23px;
   height: 17px;
-  background-image: url("/img/header/optic.png");
+  background-image: url("img/header/optic.png");
   background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1182,13 +1182,13 @@ a {
   background-repeat: no-repeat;
 }
 .header-contacts__link--map {
-  background-image: url("/img/header/map.png");
+  background-image: url("img/header/map.png");
 }
 .header-contacts__link--calendar {
-  background-image: url("/img/header/calendar.png");
+  background-image: url("img/header/calendar.png");
 }
 .header-contacts__link--call {
-  background-image: url("/img/header/phone.png");
+  background-image: url("img/header/phone.png");
 }
 .header-contacts__link:focus {
   outline: 2px solid var(--blue-color);
@@ -1356,7 +1356,7 @@ a {
   position: relative;
   padding-top: 60px;
   height: 430px;
-  background-image: url("/img/main-page/main-page-bg.jpg");
+  background-image: url("img/main-page/main-page-bg.jpg");
   background-position: right center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1463,7 +1463,7 @@ a {
   margin-right: 15px;
   width: 40px;
   height: 41px;
-  background-image: url("/img/main-page/doctor.png");
+  background-image: url("img/main-page/doctor.png");
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1589,7 +1589,7 @@ a {
   width: 110px;
   height: 110px;
   background-color: var(--light-color);
-  background-image: url("/img/about/hospital.png");
+  background-image: url("img/about/hospital.png");
   background-position: center;
   background-size: 50px 47px;
   background-repeat: no-repeat;
@@ -1607,7 +1607,7 @@ a {
   width: 110px;
   height: 110px;
   background-color: var(--light-color);
-  background-image: url("/img/about/care.png");
+  background-image: url("img/about/care.png");
   background-position: center;
   background-size: 50px 47px;
   background-repeat: no-repeat;
@@ -1625,7 +1625,7 @@ a {
   width: 110px;
   height: 110px;
   background-color: var(--light-color);
-  background-image: url("/img/about/card.png");
+  background-image: url("img/about/card.png");
   background-position: center;
   background-size: 42px 50px;
   background-repeat: no-repeat;
@@ -1935,7 +1935,7 @@ a {
   top: 0;
   width: 35px;
   height: 35px;
-  background-image: url("/img/benefits/star.svg");
+  background-image: url("img/benefits/star.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1948,7 +1948,7 @@ a {
   top: 0;
   width: 30px;
   height: 30px;
-  background-image: url("/img/benefits/people.svg");
+  background-image: url("img/benefits/people.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1961,7 +1961,7 @@ a {
   top: 0;
   width: 30px;
   height: 30px;
-  background-image: url("/img/benefits/heart.svg");
+  background-image: url("img/benefits/heart.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1998,7 +1998,7 @@ a {
   width: 60px;
   height: 50px;
   fill: var(--light-color);
-  background-image: url("/img/benefits/quote.png");
+  background-image: url("img/benefits/quote.png");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -2120,7 +2120,7 @@ a {
   top: 0;
   width: 30px;
   height: 30px;
-  background-image: url("/img/tooltips/info-icon.png");
+  background-image: url("img/tooltips/info-icon.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2156,12 +2156,12 @@ a {
 .tooltip__icon--val8-light {
   left: 384px;
   top: 132px;
-  background-image: url("/img/tooltips/info-icon-light.png");
+  background-image: url("img/tooltips/info-icon-light.png");
 }
 .tooltip__icon--val9-light {
   left: 416px;
   top: 219px;
-  background-image: url("/img/tooltips/info-icon-light.png");
+  background-image: url("img/tooltips/info-icon-light.png");
 }
 .tooltip__txt {
   border-radius: 20px;
@@ -2183,7 +2183,7 @@ a {
   color: var(--dark-color);
 }
 .tooltip__item {
-  background-image: url("/img/svg/rhomb.svg");
+  background-image: url("img/svg/rhomb.svg");
   background-position: left 4px;
   background-size: 10px 10px;
   background-repeat: no-repeat;
@@ -2226,7 +2226,7 @@ a {
   width: 60px;
   height: 60px;
   z-index: 10;
-  background-image: url("/img/benefits/quote.png");
+  background-image: url("img/benefits/quote.png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2496,7 +2496,7 @@ a {
   top: 3px;
   width: 22px;
   height: 22px;
-  background-image: url("/img/check.svg");
+  background-image: url("img/check.svg");
   background-position: center;
   background-size: 16px 16px;
   background-repeat: no-repeat;
@@ -2886,7 +2886,7 @@ a {
   right: 20px;
   width: 65px;
   height: 55px;
-  background-image: url("/img/benefits/quote.png");
+  background-image: url("img/benefits/quote.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -2909,7 +2909,7 @@ a {
 }
 .feedback__box {
   margin-bottom: 35px;
-  background-image: url("/img/pencil.png");
+  background-image: url("img/pencil.png");
   background-position: left;
   background-size: 36px 36px;
   background-repeat: no-repeat;
@@ -3605,19 +3605,19 @@ a {
   margin-bottom: 25px;
 }
 .footer-contacts__item--call {
-  background-image: url("/img/footer/call.png");
+  background-image: url("img/footer/call.png");
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
 }
 .footer-contacts__item--mes {
-  background-image: url("/img/footer/mes.png");
+  background-image: url("img/footer/mes.png");
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
 }
 .footer-contacts__item--mail {
-  background-image: url("/img/footer/mail.png");
+  background-image: url("img/footer/mail.png");
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3644,7 +3644,7 @@ a {
   height: 26px;
 }
 .footer-direction__col--sign {
-  background-image: url("/img/footer/sign.png");
+  background-image: url("img/footer/sign.png");
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
